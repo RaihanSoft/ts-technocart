@@ -15,4 +15,8 @@ let d: number
 
 let frinds: string[] = ["Raihan", "Rafiq", "Rifat"] 
 let numbers: number[] = [1, 2, 3,]
-numbers.push
+
+
+// tupel array 
+let coordinates: [number, number] = [1, 2]
+let num  : [string, number, boolean] = ["Raihan", 22, false]
